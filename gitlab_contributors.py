@@ -18,9 +18,26 @@ def api_get(url, params=None):
     r.raise_for_status()
     return r.json()
 
-def main():
+def api_get_all(url, params=None):
+    """Follow pagination and return combined results."""
+    results = []
+    page = 1
+    while True:
+        _params = dict(params or {})
+        _params.update({"per_page": 100, "page": page})
+        r = requests.get(url, headers=HEADERS, params=_params)
+        r.raise_for_status()
+        data = r.json()
+        if not data:
+            break
+        results.extend(data)
+        if len(data) < 100:
+            break
+        page += 1
+    return results
 
-    repo_list = [r.strip() for r in GITLAB_REPO_NAMES.split(",")]
+def main():
+    repo_list = [r.strip() for r in GITLAB_REPO_NAMES.split(",") if r.strip()]
     repo_set = {r.lower() for r in repo_list}
 
     print("Fetching group...")
@@ -30,118 +47,12 @@ def main():
     if not group:
         print("ERROR: Group not found")
         return
-
     group_id = group["id"]
 
-    print("Fetching group members (for user_id + status mapping)...")
-    members = api_get(
-        f"{GITLAB_API_URL}/groups/{group_id}/members/all",
-        params={"per_page": 100}
-    )
-
-    member_lookup = {}
-    for m in members:
-        member_lookup[m["name"].lower()] = m  # name-based matching
+    print("Fetching group members...")
+    members = api_get_all(f"{GITLAB_API_URL}/groups/{group_id}/members/all")
+    member_by_email = {m.get("email", "").lower(): m for m in members if m.get("email")}
+    member_by_name = {m.get("name", "").lower(): m for m in members if m.get("name")}
 
     print("Fetching all projects in group...")
-    projects = api_get(
-        f"{GITLAB_API_URL}/groups/{group_id}/projects",
-        params={"include_subgroups": "true", "per_page": 200}
-    )
-
-    # Match repos by project "path" (repo name)
-    target_projects = [p for p in projects if p["path"].lower() in repo_set]
-
-    if not target_projects:
-        print("No matching repos found.")
-        return
-
-    # Data structure for contributors
-    contributor_data = defaultdict(lambda: {
-        "name": None,
-        "email": None,
-        "user_id": None,
-        "state": "unknown",
-        "last_commit_at": None,
-        "total_commits": 0,
-        "repo_commits": {r: 0 for r in repo_list}
-    })
-
-    print("\nProcessing repositories...\n")
-
-    for project in target_projects:
-        repo_name = project["path"]
-        project_id = project["id"]
-
-        print(f"→ {repo_name}")
-
-        contributors = api_get(
-            f"{GITLAB_API_URL}/projects/{project_id}/repository/contributors"
-        )
-
-        for c in contributors:
-            email = c.get("email")
-            name = c.get("name")
-
-            if not name:
-                continue
-
-            key = name.lower()  # use display name as stable key
-            entry = contributor_data[key]
-
-            entry["name"] = name
-            entry["email"] = email
-
-            # Repo-specific commit count
-            entry["repo_commits"][repo_name] += c.get("commits", 0)
-            entry["total_commits"] += c.get("commits", 0)
-
-            # Find last commit date
-            commits = api_get(
-                f"{GITLAB_API_URL}/projects/{project_id}/repository/commits",
-                params={"author": name, "per_page": 50}
-            )
-
-            if commits:
-                last_date = max(cmt["created_at"] for cmt in commits)
-                if not entry["last_commit_at"] or last_date > entry["last_commit_at"]:
-                    entry["last_commit_at"] = last_date
-
-    print("\nMatching contributors to GitLab members...\n")
-
-    for key, entry in contributor_data.items():
-        name = entry["name"].lower()
-
-        if name in member_lookup:
-            m = member_lookup[name]
-            entry["user_id"] = m["id"]
-            entry["state"] = m["state"]
-        else:
-            entry["state"] = "not_found"
-
-    print("Writing contributors.csv ...")
-
-    with open("contributors.csv", "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-
-        header = ["user_id", "name", "email", "status", "last_commit_date"]
-        header += [f"commit_count_{r}" for r in repo_list]
-        header.append("total_commits")
-        writer.writerow(header)
-
-        for entry in contributor_data.values():
-            row = [
-                entry["user_id"],
-                entry["name"],
-                entry["email"],
-                entry["state"],
-                entry["last_commit_at"]
-            ]
-            row += [entry["repo_commits"][r] for r in repo_list]
-            row.append(entry["total_commits"])
-            writer.writerow(row)
-
-    print("Done ✓ contributors.csv generated.")
-
-if __name__ == "__main__":
-    main()
+    projects = api_get_
