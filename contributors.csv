@@ -1,90 +1,222 @@
-user_id,name,email,status,last_commit_date,commit_count_spark-java,commit_count_cqm-java,commit_count_mrr,commit_count_rmm,commit_count_framework,commit_count_uam,total_commits
-,NithyaTiwari,nithya.tiwarip@citiustech.com,not_found,2025-07-22T21:59:28.000+05:30,0,0,0,0,0,1,1
-,Bhagyashri96,patil.bhagyashri1029@gmail.com,not_found,2023-07-20T17:56:21.000+05:30,0,0,0,0,0,1,1
-,unknown,ronakt2@dqrmqa.CT-BIC.com,not_found,2021-11-11T14:26:18.000+05:30,0,0,0,0,0,1,1
-,Suchita Kubal,suchita.kubal@citiustech.com,not_found,2018-12-14T12:53:22.000+05:30,0,0,0,0,0,1,1
-,Urmila Kute,UrmilaK2@citiustech.com,not_found,2018-10-05T13:02:55.000+05:30,0,0,0,0,0,8,8
-,Swathi Bandi,swathi.kota@citiustech.com,not_found,2025-06-03T09:27:06.000+05:30,0,0,0,0,0,2,41
-,Akash Patel,akashp2@citiustech.com,not_found,2018-12-04T17:17:49.000+05:30,0,0,0,0,0,2,2
-,Shrikant Haralayya,shrikant.haralayya@citiustech.com,not_found,2018-11-27T18:06:33.000+05:30,0,0,0,0,0,2,2
-,Ramanna,chilakaramanna.murakunda@citiustech.com,not_found,2025-10-15T17:45:06.000+05:30,0,0,0,0,0,3,3
-,Jayesh Joshi,jayesh.joshi@citiustech.com,not_found,2025-09-03T19:08:29.000+05:30,0,0,0,0,0,3,7
-,yogeshp5,yogesh.parekar@citiustech.com,not_found,2020-05-16T01:22:25.000+05:30,0,0,0,0,0,3,3
-,Sunil Mathias,sunil.mathias@citiiustech.com,not_found,2019-02-07T18:04:41.000+05:30,0,0,0,0,0,23,23
-,Ronak Tanna,ronak.tanna@citiustech.com,not_found,2023-05-09T13:04:45.000+05:30,0,0,0,0,0,16,16
-,Shaishav Shah,shaishav.shah@citiustech.com,not_found,2025-07-24T19:52:17.000+05:30,0,0,0,0,0,5,5
-3,Amit More,amit.more@citiustech.com,active,2025-11-17T09:38:08.000+00:00,2,0,0,0,0,6,19
-,ameya.gujar,ameya.gujar@citiustech.com,not_found,2018-10-23T19:12:09.000+05:30,0,0,0,0,0,10,10
-,prasannab,prasanna.bharekar@citiustech.com,not_found,2025-08-20T13:24:09.000+05:30,0,0,0,0,0,16,16
-,Nivedita Sutar,nivedita.sutar@citiustech.com,not_found,2025-10-14T11:45:20.000+05:30,1,0,0,0,0,0,1
-,Pabbu Ishwarya,pabbu.ishwarya@citiustech.com,not_found,2025-09-03T13:16:55.000+05:30,2,0,0,0,0,0,2
-,pranaym,pranay.mokal@citiustech.com,not_found,2025-08-14T17:45:30.000+05:30,1,0,0,0,0,0,1
-,NehaS16,Neha.Salunkhe@citiustech.com,not_found,2025-04-03T08:19:05.000+05:30,1,0,0,0,0,0,1
-,Gagan Vijayvargiya,gagan.vijayvargiya@citiustech.com,not_found,2025-09-22T14:50:52.000+05:30,2,0,0,0,0,0,2
-,priyankab7,priyankab7@CM1VA1021.mumbai1.corp.citiustech.com,not_found,2025-09-24T16:14:39.000+05:30,3,0,0,0,0,0,3
-,Sagar Latake,sagar.latake@citiustech.com,not_found,2025-10-14T14:25:41.000+00:00,3,0,0,0,0,0,3
-,30896,30896@CM1VA1338.mumbai1.corp.citiustech.com,not_found,2025-08-01T20:08:57.000+05:30,3,0,0,0,0,0,5
-,Nitin Pandurang Patil,nitin.patil3@citiustech.com,not_found,2025-07-10T20:14:41.000+05:30,3,0,0,0,0,0,3
-,Shubhangi Dargude,Shubhangi.Dargude@citiustech.com,not_found,2025-10-06T14:52:52.000+05:30,3,0,0,0,0,0,6
-,Arunkumar Kashyap,arunkumar.kashyap@citiustech.com,not_found,2025-09-29T17:56:38.000+05:30,4,0,0,0,0,0,4
-,Rushabh Shah2,rushabh.shah2@citiustech.com,not_found,2025-09-08T11:33:15.000+00:00,4,0,0,0,0,0,4
-,Ashitosh Dasarwar,ashitosh.dasarwar@citiustech.com,not_found,2025-08-08T08:52:52.000+00:00,4,0,0,0,0,0,5
-,Rushabh Shah,RushabhS2@citiustech.com,not_found,2025-10-14T10:57:36.000+05:30,5,0,0,0,0,0,48
-,Priyanka Bhende,priyanka.bhende@citiustech.com,not_found,2025-09-25T07:12:37.000+00:00,5,0,0,0,0,0,6
-,RutujaT,Rutuja.Thorat@citiustech.com,not_found,2025-08-29T12:05:37.000+05:30,5,0,0,0,0,0,5
-,Rajkamal Udayakumar,rajkamal.udayakumar@citiustech.com,not_found,2025-08-25T20:54:32.000+05:30,5,0,0,0,0,0,5
-,Mayur Patil,mayur.patil@citiustech.com,not_found,2025-09-25T13:14:21.000+05:30,6,0,0,0,0,0,11
-,KetanShukla,ketan.shukla@citiustech.com,not_found,2025-10-08T15:27:34.000+05:30,0,0,0,0,0,0,1
-,Anuradha Singamaneni,anuradha.singamaneni@citiustech.com,not_found,2025-03-04T19:08:38.000+05:30,0,0,0,0,0,0,2
-,Prasidh B G,prasidh.bg@citiustech.com,not_found,2025-01-03T14:49:36.000+05:30,0,0,0,0,0,0,2
-,Swapnil Tapkir,swapnil.tapkir@citiustech.com,not_found,2025-03-13T12:47:15.000+00:00,0,0,0,0,0,0,2
-,Partha Saradhi,partha.saradhi@citiustech.com,not_found,2025-06-09T18:18:30.000+05:30,0,0,0,0,0,0,5
-,Avaneesh Pandey,avaneesh.pandey@citiustech.com,not_found,2023-08-18T14:33:10.000+00:00,0,0,0,0,0,0,8
-,Suraj Mishra2,suraj.mishra2@citiustech.com,not_found,2024-06-10T10:04:23.000+00:00,0,0,0,0,0,0,21
-,Vijayakumar Arumugam,vijayakumar.arumugam@citiustech.com,not_found,2025-05-27T15:29:33.000+05:30,0,0,0,0,0,0,9
-,Saurabh Suman,SaurabhS4@citiustech.com,not_found,2024-12-18T10:59:27.000+00:00,0,0,0,0,0,0,29
-,P Y Chenna Reddy,py.chennareddy@citiustech.com,not_found,2025-09-16T12:48:29.000+05:30,0,0,0,0,0,0,11
-,Sweta Kumari2,SwetaK2@citiustech.com,not_found,2023-09-27T13:11:20.000+05:30,0,0,0,0,0,0,19
-,Rohini Bhangale,rohini.bhangale@citiustech.com,not_found,2025-09-23T17:32:42.000+05:30,0,0,0,0,0,0,20
-,BhagyashriP2,bhagyashri.patil@citiustech.com,not_found,2025-02-18T16:14:51.000+05:30,0,0,0,0,0,0,21
-,M Ramya,MR@citiustech.com,not_found,2025-09-16T18:01:08.000+05:30,0,0,0,0,0,0,22
-,Suraj Khose,you@example.com,not_found,2025-11-06T12:50:43.000+05:30,0,0,0,0,0,0,32
-,SwetaK2,sweta.kumari2@citiustech.com,not_found,2024-05-24T14:09:13.000+05:30,0,0,0,0,0,0,47
-,32068,32068@CTAADPG02J4HE,not_found,2025-08-29T12:02:28.000+05:30,0,0,0,0,0,0,15
-,KrishnaP,KrishnaP@CM1VA1025.mumbai1.corp.citiustech.com,not_found,2023-05-05T13:29:03.000+05:30,0,0,0,0,0,0,5
-,Krishna Parmar,KrishnaP@citiustech.com,not_found,2023-05-22T19:29:13.000+05:30,0,0,0,0,0,0,1
-,PradnyaP2,PradnyaP2@IMCVBCP102-MSL1.mumbai1.corp.citiustech.com,not_found,2023-02-24T00:23:59.000+05:30,0,0,0,0,0,0,3
-,Priyanka Talekar,PriyankaB7@citiustech.com,not_found,2025-09-23T19:02:41.000+05:30,0,0,0,0,0,0,2
-,Pranay Mokal,pranay.mokal@citiustech.com,not_found,2024-11-22T15:51:01.000+00:00,0,0,0,0,0,0,5
-,SuhasB2,SuhasB2@IMCHBCP5-TXD.mumbai1.corp.citiustech.com,not_found,2022-06-17T23:55:11.000+05:30,0,0,0,0,0,0,2
-,YogeshJ2,YogeshJ2@IMCABCP30-MSD.mumbai1.corp.citiustech.com,not_found,2022-02-08T02:04:38.000+05:30,0,0,0,0,0,0,2
-,32090,32090@CTAADPG038WZN,not_found,2025-09-05T19:12:23.000+05:30,0,0,0,0,0,0,8
-,WilliamL,william.lobo@citiustech.com,not_found,2021-06-23T12:13:10.000+05:30,0,0,0,0,0,0,3
-,puja,puja.bhatkar@citiustech.com,not_found,2021-06-14T12:58:14.000+05:30,0,0,0,0,0,0,3
-,Ankit Patware,AnkitP7@citiustech.com,not_found,2022-09-20T20:34:33.000+05:30,0,0,0,0,0,0,4
-,SwathiK,SwathiK@IMCVBCP42-BLL.mumbai1.corp.citiustech.com,not_found,2022-05-17T07:19:42.000+05:30,0,0,0,0,0,0,4
-,HarshitK,HarshitK@IMCVBCP100-MSL2.mumbai1.corp.citiustech.com,not_found,2023-05-02T19:43:04.000+05:30,0,0,0,0,0,0,5
-677,Ketan Shukla,ketan.shukla@citiustech.com,active,2025-11-17T09:36:36.000+00:00,0,0,0,0,0,0,1
-682,Nithya Tiwari P,nithya.tiwarip@citiustech.com,active,2025-05-27T12:26:53.000+00:00,0,0,0,0,0,0,1
-,Chandan Mishra,chandan.mishra@citiustech.com,not_found,2025-04-25T06:11:35.000+00:00,0,0,0,0,0,0,1
-,Atul Mahadik,AtulM2@citiustech.com,not_found,2025-08-19T17:12:30.000+05:30,0,0,0,0,0,0,2
-,Siddhesh Patil,SiddheshP5@citiustech.com,not_found,2025-08-06T14:08:09.000+05:30,0,0,0,0,0,0,2
-,31834,avula.bhavankumarreddy@citiustech.com,not_found,2025-06-11T14:35:19.000+00:00,0,0,0,0,0,0,4
-594,Chilaka Ramanna Murakunda,chilakaramanna.murakunda@citiustech.com,active,2025-09-23T11:22:31.000+00:00,0,0,0,0,0,0,7
-,Sheetal,Sheetal.Bahirat@citiustech.com,not_found,2025-07-21T11:46:44.000+00:00,0,0,0,0,0,0,5
-,Anandkumar Satpute,anandkumar.satpute@citiustech.com,not_found,2025-03-28T13:38:20.000+00:00,0,0,0,0,0,0,7
-,Suhas Shenoy,suhas.shenoy@citiustech.com,not_found,2025-04-02T14:40:10.000+00:00,0,0,0,0,0,0,13
-,31999,sathani.udaykumarreddy@citiustech.com,not_found,2025-07-25T07:42:53.000+00:00,0,0,0,0,0,0,14
-,Ashwin Prabhu,ashwin.prabhu@citiustech.com,not_found,2024-11-14T16:09:29.000+05:30,0,0,0,0,0,0,15
-,Ketki Bhagat,ketki.bhagat@citiustech.com,not_found,2025-08-11T14:30:24.000+00:00,0,0,0,0,0,0,23
-,Rahul Badekar,rahul.badekar@citiustech.com,not_found,2025-03-17T12:40:36.000+00:00,0,0,0,0,0,0,25
-,Dadi Anusha,dadi.anusha@citiustech.com,not_found,2025-08-13T03:53:11.000+00:00,0,0,0,0,0,0,39
-,Sheetal Bahirat,sheetal.bahirat@citiustech.com,not_found,2025-07-21T11:46:44.000+00:00,0,0,0,0,0,0,44
-,chirag gujarathi,chirag.gujarathi@citiustech.com,not_found,2025-08-28T20:13:38.000+05:30,0,0,0,0,0,0,1
-,Ridhi Choudhary,ridhi.choudhary.p@citiustech.com,not_found,2025-07-21T18:02:58.000+05:30,0,0,0,0,0,0,1
-,krishna.parmar,krishna.parmar@citiustech.com,not_found,2024-12-27T16:45:53.000+05:30,0,0,0,0,0,0,1
-,Rohith Reddy Adamala,rohith.reddyadamala@citiustech.com,not_found,2023-07-04T21:36:37.000+05:30,0,0,0,0,0,0,1
-,Shalini Prasath,shalini.prasath@citiustech.com,not_found,2025-03-12T19:48:26.000+05:30,0,0,0,0,0,0,2
-,shubhamB7,shubhamB7@CM1VA1322.mumbai1.corp.citiustech.com,not_found,2025-05-14T17:46:46.000+05:30,0,0,0,0,0,0,2
-,Shashidhar Reddy,shashidhar.reddy@citiustech.com,not_found,2025-05-07T18:36:41.000+05:30,0,0,0,0,0,0,4
-,Hrushikesh Bhuskat,hrushikesh.bhuskat@citiustech.com,not_found,2025-09-15T12:34:54.000+05:30,0,0,0,0,0,0,5
+username,name,email,status,repo_name,commit_count,last_commit_date
+unknown,NithyaTiwari,nithya.tiwarip@citiustech.com,unknown,uam,1,2025-07-22T21:59:28.000+05:30
+unknown,Bhagyashri96,patil.bhagyashri1029@gmail.com,unknown,uam,1,2023-07-20T17:56:21.000+05:30
+unknown,unknown,ronakt2@dqrmqa.CT-BIC.com,unknown,uam,1,2021-11-11T14:26:18.000+05:30
+unknown,Suchita Kubal,suchita.kubal@citiustech.com,unknown,uam,25,2018-12-14T12:53:22.000+05:30
+unknown,Urmila Kute,urmila.kute@citiustech.com,unknown,uam,7,2018-10-05T13:02:55.000+05:30
+unknown,Swathi Bandi,swathi.kota@citiustech.com,unknown,uam,2,2025-09-25T12:38:00.000+05:30
+unknown,Swathi Bandi,swathi.kota@citiustech.com,unknown,Framework,39,2025-09-25T12:38:00.000+05:30
+unknown,Swathi Bandi,swathi.kota@citiustech.com,unknown,RMM,357,2025-09-25T12:38:00.000+05:30
+unknown,Akash Patel,akashp2@citiustech.com,unknown,uam,93,2018-12-04T17:17:49.000+05:30
+unknown,Shrikant Haralayya,shrikant.haralayya@citiustech.com,unknown,uam,2,2018-11-27T18:06:33.000+05:30
+unknown,Ramanna,chilakaramanna.murakunda@citiustech.com,unknown,uam,3,2025-10-15T17:45:06.000+05:30
+unknown,Jayesh Joshi,jayesh.joshi@citiustech.com,unknown,uam,3,2025-09-03T19:08:29.000+05:30
+unknown,Jayesh Joshi,jayesh.joshi@citiustech.com,unknown,RMM,4,2025-09-03T19:08:29.000+05:30
+unknown,yogeshp5,yogesh.parekar@citiustech.com,unknown,uam,3,2020-05-16T01:22:25.000+05:30
+unknown,Sunil Mathias,sunil.mathias@citiustech.com,unknown,uam,20,2019-02-07T18:04:41.000+05:30
+unknown,Ronak Tanna,ronakt2@CTUAM.com,unknown,uam,12,2023-05-09T13:04:45.000+05:30
+unknown,Shaishav Shah,shaishav.shah@citiustech.com,unknown,uam,5,2025-10-08T11:09:48.000+00:00
+unknown,Shaishav Shah,shaishav.shah@citiustech.com,unknown,Framework,53,2025-10-08T11:09:48.000+00:00
+unknown,Shaishav Shah,shaishav.shah@citiustech.com,unknown,RMM,147,2025-10-08T11:09:48.000+00:00
+amitm3,Amit More,amit.more@citiustech.com,active,uam,6,2025-11-17T09:38:08.000+00:00
+amitm3,Amit More,amit.more@citiustech.com,active,spark-java,2,2025-11-17T09:38:08.000+00:00
+amitm3,Amit More,amit.more@citiustech.com,active,Framework,2,2025-11-17T09:38:08.000+00:00
+amitm3,Amit More,amit.more@citiustech.com,active,CQM-JAVA,1,2025-11-17T09:38:08.000+00:00
+amitm3,Amit More,amit.more@citiustech.com,active,MRR,5,2025-11-17T09:38:08.000+00:00
+amitm3,Amit More,amit.more@citiustech.com,active,RMM,3,2025-11-17T09:38:08.000+00:00
+unknown,ameya.gujar,ameya.gujar@citiustech.com,unknown,uam,10,2018-10-23T19:12:09.000+05:30
+unknown,prasannab,prasanna.bharekar@citiustech.com,unknown,uam,16,2025-08-20T13:24:09.000+05:30
+unknown,Bhagyashri Patil,BhagyashriP2@citiustech.com,unknown,uam,24,2025-09-17T11:58:33.000+00:00
+unknown,Sandeep Pote,sandeep.pote@citiustech.com,unknown,uam,44,2025-09-24T10:24:23.000+05:30
+unknown,Sandeep Pote,sandeep.pote@citiustech.com,unknown,MRR,108,2025-09-24T10:24:23.000+05:30
+unknown,Sandeep Pote,sandeep.pote@citiustech.com,unknown,RMM,87,2025-09-24T10:24:23.000+05:30
+unknown,Pranay Mokal,pranay.mokal@citiustech.com,unknown,uam,48,2025-11-14T07:21:12.000+00:00
+unknown,Pranay Mokal,pranay.mokal@citiustech.com,unknown,CQM-JAVA,2,2025-11-14T07:21:12.000+00:00
+unknown,Pranay Mokal,pranay.mokal@citiustech.com,unknown,MRR,3,2025-11-14T07:21:12.000+00:00
+unknown,Pranay Mokal,pranay.mokal@citiustech.com,unknown,RMM,53,2025-11-14T07:21:12.000+00:00
+unknown,Dhiraj Shukla,DhirajS@citiustech.com,unknown,uam,60,2021-07-02T20:12:39.000+05:30
+unknown,pratibhay,pratibha.yadav@citiustech.com,unknown,uam,61,2020-03-13T17:34:36.000+05:30
+unknown,shrikanth2,shrikant.harlayya@cititustech.com,unknown,uam,62,2019-01-29T15:17:38.000+05:30
+unknown,Yogita Deshmukh,yogitad@citiustech.com,unknown,uam,69,2021-09-23T16:41:56.000+05:30
+unknown,BhagyashriP2,Bhagyashri.Patil@citiustech.com,unknown,uam,78,2025-09-19T19:35:05.000+05:30
+unknown,BhagyashriP2,Bhagyashri.Patil@citiustech.com,unknown,Framework,21,2025-09-19T19:35:05.000+05:30
+unknown,BhagyashriP2,Bhagyashri.Patil@citiustech.com,unknown,RMM,124,2025-09-19T19:35:05.000+05:30
+unknown,Pratibha Yadav,PratibhaY@citiustech.com,unknown,uam,97,2020-12-25T15:58:15.000+05:30
+unknown,Himmatrao Sargar,himmatraos@citiustech.com,unknown,uam,269,2024-08-07T22:29:29.000+05:30
+unknown,Aniket Rane,aniket.rane@citiustech.com,unknown,uam,109,2020-08-20T14:05:27.000+05:30
+SathishaT,Sathisha T,sathisha.t@citiustech.com,active,uam,121,2025-09-16T10:51:57.000+00:00
+SathishaT,Sathisha T,sathisha.t@citiustech.com,active,RMM,68,2025-09-16T10:51:57.000+00:00
+unknown,yogitad,yogita.deshmukh@citiustech.com,unknown,uam,184,2021-09-23T16:41:56.000+05:30
+unknown,BhavinKumar Bhandari,BhavinKumarB@citiustech.com,unknown,uam,378,2023-06-28T19:49:36.000+05:30
+unknown,Nivedita Sutar,nivedita.sutar@citiustech.com,unknown,spark-java,1,2025-10-14T11:45:20.000+05:30
+unknown,Nivedita Sutar,nivedita.sutar@citiustech.com,unknown,MRR,362,2025-10-14T11:45:20.000+05:30
+unknown,Pabbu Ishwarya,PabbuI@citiustech.com,unknown,spark-java,1,2025-09-03T13:16:55.000+05:30
+unknown,pranaym,pranay.mokal@citiustech.com,unknown,spark-java,1,2025-08-14T17:45:30.000+05:30
+unknown,NehaS16,Neha.Salunkhe@citiustech.com,unknown,spark-java,1,2025-04-03T08:19:05.000+05:30
+unknown,Gagan Vijayvargiya,gagan.vijayvargiya@citiustech.com,unknown,spark-java,2,2025-09-22T14:50:52.000+05:30
+unknown,priyankab7,priyankab7@CM1VA1021.mumbai1.corp.citiustech.com,unknown,spark-java,3,2025-09-24T16:14:39.000+05:30
+unknown,priyankab7,priyankab7@CM1VA1021.mumbai1.corp.citiustech.com,unknown,CQM-JAVA,126,2025-09-24T16:14:39.000+05:30
+unknown,Sagar Latake,sagar.latake@citiustech.com,unknown,spark-java,3,2025-10-14T14:25:41.000+00:00
+unknown,30896,30896@CM1VA1338.mumbai1.corp.citiustech.com,unknown,spark-java,3,2025-08-01T20:08:57.000+05:30
+unknown,30896,30896@CM1VA1338.mumbai1.corp.citiustech.com,unknown,RMM,2,2025-08-01T20:08:57.000+05:30
+unknown,Nitin Pandurang Patil,nitin.patil3@citiustech.com,unknown,spark-java,3,2025-07-10T20:14:41.000+05:30
+unknown,Shubhangi Dargude,shubhangi.dargude@citiustech.com,unknown,spark-java,52,2025-10-06T14:52:52.000+05:30
+unknown,Shubhangi Dargude,shubhangi.dargude@citiustech.com,unknown,RMM,3,2025-10-06T14:52:52.000+05:30
+unknown,Arunkumar Kashyap,arunkumar.kashyap@citiustech.com,unknown,spark-java,4,2025-09-29T17:56:38.000+05:30
+unknown,Rushabh Shah2,rushabh.shah2@citiustech.com,unknown,spark-java,4,2025-09-08T11:33:15.000+00:00
+unknown,Rushabh Shah2,rushabh.shah2@citiustech.com,unknown,MRR,248,2025-09-08T11:33:15.000+00:00
+unknown,Ashitosh Dasarwar,ashitosh.dasarwar@citiustech.com,unknown,spark-java,4,2025-08-08T08:52:52.000+00:00
+unknown,Ashitosh Dasarwar,ashitosh.dasarwar@citiustech.com,unknown,CQM-JAVA,1,2025-08-08T08:52:52.000+00:00
+unknown,Rushabh Shah,RushabhS2@citiustech.com,unknown,spark-java,5,2025-10-14T10:57:36.000+05:30
+unknown,Rushabh Shah,RushabhS2@citiustech.com,unknown,MRR,43,2025-10-14T10:57:36.000+05:30
+unknown,Priyanka Bhende,priyanka.bhende@citiustech.com,unknown,spark-java,5,2025-09-25T07:12:37.000+00:00
+unknown,Priyanka Bhende,priyanka.bhende@citiustech.com,unknown,CQM-JAVA,58,2025-09-25T07:12:37.000+00:00
+unknown,Priyanka Bhende,priyanka.bhende@citiustech.com,unknown,RMM,1,2025-09-25T07:12:37.000+00:00
+unknown,RutujaT,Rutuja.Thorat@citiustech.com,unknown,spark-java,5,2025-08-29T12:05:37.000+05:30
+unknown,Rajkamal Udayakumar,rajkamal.udayakumar@citiustech.com,unknown,spark-java,5,2025-08-25T20:54:32.000+05:30
+unknown,mayur patil,mayur.patil@citiustech.com,unknown,spark-java,6,2025-10-01T11:12:07.000+05:30
+unknown,mayur patil,mayur.patil@citiustech.com,unknown,Framework,260,2025-10-01T11:12:07.000+05:30
+unknown,mayur patil,mayur.patil@citiustech.com,unknown,MRR,5,2025-10-01T11:12:07.000+05:30
+unknown,30601,anusha.k@citiustech.com,unknown,spark-java,9,2025-09-17T09:37:22.000+00:00
+unknown,30601,anusha.k@citiustech.com,unknown,RMM,8,2025-09-17T09:37:22.000+00:00
+PrasannaB,Prasanna Bharekar,prasanna.bharekar@citiustech.com,active,spark-java,9,2025-10-17T14:22:19.000+00:00
+unknown,Sagar Talekar,sagar.talekar@citiustech.com,unknown,spark-java,17,2025-10-07T18:32:02.000+05:30
+unknown,Atif Shamshi,atif.shamshi@citiustech.com,unknown,spark-java,11,2025-10-20T12:48:18.000+05:30
+unknown,PabbuI,PabbuI@CM1VA1172.mumbai1.corp.citiustech.com,unknown,spark-java,29,2025-10-08T19:52:59.000+05:30
+unknown,PabbuI,PabbuI@CM1VA1172.mumbai1.corp.citiustech.com,unknown,RMM,20,2025-10-08T19:52:59.000+05:30
+unknown,Pallavi Sakhare,PallaviS4@citiustech.com,unknown,spark-java,13,2025-09-03T13:32:11.000+05:30
+unknown,Sanaga Sudarsana Reddy,sanaga.sudarsanareddy@citiustech.com,unknown,spark-java,14,2025-09-05T13:39:08.000+05:30
+unknown,Priyanka Bhaskar,Priyanka.Bhaskar@citiustech.com,unknown,spark-java,16,2025-04-28T17:50:09.000+05:30
+unknown,Rishab Chavan,rishab.chavan@citiustech.com,unknown,spark-java,17,2025-09-26T12:09:51.000+05:30
+unknown,Sohel Sayyad,sohel.sayyad@citiustech.com,unknown,spark-java,21,2025-10-15T19:14:19.000+05:30
+unknown,chiragg,chirag.gujarathi@citiustech.com,unknown,spark-java,25,2025-07-10T19:49:51.000+05:30
+unknown,Supriya Nikam,supriya.nikam@citiustech.com,unknown,spark-java,30,2025-08-18T15:57:59.000+05:30
+unknown,Priyanka,priyanka.bhaskar@citiustech.com,unknown,spark-java,39,2025-09-30T17:52:16.000+05:30
+unknown,Udyanpratap Keshari,udyanpratap.keshari@citiustech.com,unknown,spark-java,45,2025-10-10T12:11:49.000+00:00
+unknown,sumits8,sumit.sonawane@citiustech.com,unknown,spark-java,47,2025-10-10T15:05:05.000+05:30
+unknown,sumits8,sumit.sonawane@citiustech.com,unknown,RMM,79,2025-10-10T15:05:05.000+05:30
+unknown,Zaid,mohammadzaid.beg@citiustech.com,unknown,spark-java,48,2025-09-16T19:41:40.000+05:30
+unknown,Zaid,mohammadzaid.beg@citiustech.com,unknown,RMM,31,2025-09-16T19:41:40.000+05:30
+unknown,Bhagyalaxmi Kalshetty,bhagyalaxmi.kalshetty@citiustech.com,unknown,spark-java,55,2025-09-17T17:02:38.000+05:30
+unknown,sheetal,sheetal.ghodke@citiustech.com,unknown,spark-java,55,2025-10-20T07:23:04.000+00:00
+unknown,sheetal,sheetal.ghodke@citiustech.com,unknown,MRR,5,2025-10-20T07:23:04.000+00:00
+unknown,Shaheer P V,shaheer.pv@citiustech.com,unknown,spark-java,57,2025-10-01T22:55:18.000+05:30
+unknown,Leena Patil,leena.patil@citiustech.com,unknown,spark-java,61,2025-09-18T16:38:11.000+05:30
+unknown,Tushar Narayan,tushar.narayan@citiustech.com,unknown,spark-java,61,2025-05-08T13:52:54.000+05:30
+unknown,Komal Gajbhiye,komal.gajbhiye@citiustech.com,unknown,spark-java,65,2025-09-19T18:52:56.000+05:30
+unknown,Pragati Sharma,pragati.sharma@citiustech.com,unknown,spark-java,69,2025-10-14T19:40:28.000+05:30
+unknown,AshitoshDasarwar,Ashitoshdasarwar@citiustech.com,unknown,spark-java,70,2025-10-30T20:12:00.000+05:30
+unknown,AshitoshDasarwar,Ashitoshdasarwar@citiustech.com,unknown,RMM,92,2025-10-30T20:12:00.000+05:30
+unknown,MohammedI,Mohammed.AbdulzakerInamdar@citiustech.com,unknown,spark-java,70,2025-09-25T12:29:28.000+05:30
+unknown,ThulasiK,thulasi.kattamanchi@citiustech.com,unknown,spark-java,72,2025-09-24T15:06:05.000+05:30
+unknown,Sai Deepak S,sai.deepaks@citiustech.com,unknown,spark-java,72,2025-07-23T07:28:29.000+00:00
+unknown,Swetha Naikwadi,SwethaN3@citiustech.com,unknown,spark-java,105,2025-10-30T14:48:24.000+00:00
+unknown,Swetha Naikwadi,SwethaN3@citiustech.com,unknown,CQM-JAVA,147,2025-10-30T14:48:24.000+00:00
+unknown,Swetha Naikwadi,SwethaN3@citiustech.com,unknown,RMM,44,2025-10-30T14:48:24.000+00:00
+unknown,PankajS14,pankaj.shirsat@citiustech.com,unknown,spark-java,84,2025-10-14T10:27:29.000+05:30
+unknown,Mohammed Sameer Inamdar,mohammed.abdulzakerinamdar@citiustech.com,unknown,spark-java,95,2025-08-22T15:35:32.000+00:00
+unknown,AlishaV,alisha.vaz@citiustech.com,unknown,spark-java,117,2025-10-28T19:32:53.000+05:30
+unknown,AlishaV,alisha.vaz@citiustech.com,unknown,CQM-JAVA,8,2025-10-28T19:32:53.000+05:30
+unknown,RoumilS,roumil.sharma@citiustech.com,unknown,spark-java,143,2025-10-10T17:17:56.000+05:30
+unknown,DivishaG,Divisha.gupta@citiustech.com,unknown,spark-java,145,2025-10-03T13:39:02.000+05:30
+unknown,KetanShukla,ketan.shukla@citiustech.com,unknown,Framework,1,2025-10-08T15:27:34.000+05:30
+unknown,Anuradha Singamaneni,anuradha.singamaneni@citiustech.com,unknown,Framework,2,2025-03-04T19:08:38.000+05:30
+unknown,Prasidh B G,prasidh.bg@citiustech.com,unknown,Framework,2,2025-09-17T17:58:35.000+05:30
+unknown,Prasidh B G,prasidh.bg@citiustech.com,unknown,RMM,42,2025-09-17T17:58:35.000+05:30
+unknown,Swapnil Tapkir,swapnil.tapkir@citiustech.com,unknown,Framework,84,2025-03-13T12:47:15.000+00:00
+unknown,Partha Saradhi,partha.saradhi@citiustech.com,unknown,Framework,5,2025-06-09T18:18:30.000+05:30
+unknown,Avaneesh Pandey,avaneesh.pandey@citiustech.com,unknown,Framework,8,2023-08-18T14:33:10.000+00:00
+unknown,Suraj Mishra2,SurajM5@citiustech.com,unknown,Framework,13,2024-06-10T10:04:23.000+00:00
+unknown,Vijayakumar Arumugam,vijayakumar.arumugam@citiustech.com,unknown,Framework,9,2025-05-27T15:29:33.000+05:30
+unknown,Saurabh Suman,saurabh.suman@citiustech.com,unknown,Framework,19,2024-12-18T10:59:27.000+00:00
+unknown,P Y Chenna Reddy,py.chennareddy@citiustech.com,unknown,Framework,11,2025-09-16T12:48:29.000+05:30
+unknown,Sweta Kumari2,SwetaK2@citiustech.com,unknown,Framework,19,2023-09-27T13:11:20.000+05:30
+unknown,Rohini Bhangale,rohini.bhangale@citiustech.com,unknown,Framework,20,2025-09-23T17:32:42.000+05:30
+unknown,M Ramya,MR@citiustech.com,unknown,Framework,91,2025-09-16T18:01:08.000+05:30
+unknown,Suraj Khose,SurajK7@citiustech.com,unknown,Framework,58,2025-11-06T12:50:43.000+05:30
+unknown,Suraj Khose,SurajK7@citiustech.com,unknown,RMM,3,2025-11-06T12:50:43.000+05:30
+unknown,SwetaK2,sweta.kumari2@citiustech.com,unknown,Framework,47,2024-05-24T14:09:13.000+05:30
+unknown,Yash Chaudhary,YashC@citiustech.com,unknown,Framework,115,2024-08-30T15:50:26.000+05:30
+unknown,Gayatri Khule,gayatri.khule@citiustech.com,unknown,Framework,71,2025-09-19T14:39:52.000+05:30
+unknown,Kavyashree H S,kavyashree.hs@citiustech.com,unknown,Framework,82,2024-11-28T12:01:25.000+05:30
+unknown,PradyumnaPalav,pradyumna.palav@citiustech.com,unknown,Framework,97,2025-04-07T18:35:36.000+05:30
+unknown,Shalini Prasath,shalini.prasath@citiustech.com,unknown,Framework,99,2025-10-06T17:06:54.000+05:30
+unknown,Shalini Prasath,shalini.prasath@citiustech.com,unknown,RMM,2,2025-10-06T17:06:54.000+05:30
+unknown,smijaj,smija.james@citiustech.com,unknown,Framework,146,2025-09-24T13:20:20.000+05:30
+unknown,smijaj,smija.james@citiustech.com,unknown,RMM,17,2025-09-24T13:20:20.000+05:30
+unknown,Ninad Devdas,ninad.devdas@citiustech.com,unknown,Framework,174,2025-10-06T11:39:37.000+00:00
+unknown,Shashidhar Reddy,shashidhar.reddy@citiustech.com,unknown,Framework,268,2025-11-07T13:11:14.000+00:00
+unknown,Shashidhar Reddy,shashidhar.reddy@citiustech.com,unknown,RMM,4,2025-11-07T13:11:14.000+00:00
+unknown,32068,32068@10.5.120.43,unknown,CQM-JAVA,7,2025-08-29T12:02:28.000+05:30
+unknown,32068,32068@10.5.120.43,unknown,RMM,4,2025-08-29T12:02:28.000+05:30
+unknown,KrishnaP,KrishnaP@KrishnaP-MSL2.mumbai1.corp.citiustech.com,unknown,CQM-JAVA,66,2023-05-05T13:29:03.000+05:30
+unknown,Krishna Parmar,KrishnaP@citiustech.com,unknown,CQM-JAVA,1,2023-05-22T19:29:13.000+05:30
+unknown,PradnyaP2,PradnyaP2@IMCNBCP41-MSD.mumbai1.corp.citiustech.com,unknown,CQM-JAVA,117,2023-02-24T00:23:59.000+05:30
+unknown,Priyanka Talekar,PriyankaB7@citiustech.com,unknown,CQM-JAVA,2,2025-09-25T12:44:44.000+05:30
+unknown,Priyanka Talekar,PriyankaB7@citiustech.com,unknown,RMM,75,2025-09-25T12:44:44.000+05:30
+unknown,SuhasB2,SuhasB2@IMCHBCP5-TXD.mumbai1.corp.citiustech.com,unknown,CQM-JAVA,35,2022-06-17T23:55:11.000+05:30
+unknown,YogeshJ2,YogeshJ2@IMCABCP30-MSD.mumbai1.corp.citiustech.com,unknown,CQM-JAVA,15,2022-02-08T02:04:38.000+05:30
+unknown,32090,32090@CTAADPG038WZN,unknown,CQM-JAVA,4,2025-09-05T19:12:23.000+05:30
+unknown,32090,32090@CTAADPG038WZN,unknown,RMM,1,2025-09-05T19:12:23.000+05:30
+unknown,WilliamL,william.lobo@citiustech.com,unknown,CQM-JAVA,3,2021-06-23T12:13:10.000+05:30
+unknown,puja,puja.bhatkar@citiustech.com,unknown,CQM-JAVA,3,2021-06-14T12:58:14.000+05:30
+unknown,Ankit Patware,AnkitP7@citiustech.com,unknown,CQM-JAVA,4,2022-09-20T20:34:33.000+05:30
+unknown,SwathiK,SwathiK@IMCVBCP42-BLL.mumbai1.corp.citiustech.com,unknown,CQM-JAVA,4,2022-05-17T07:19:42.000+05:30
+unknown,HarshitK,HarshitK@IMCVBCP100-MSL2.mumbai1.corp.citiustech.com,unknown,CQM-JAVA,5,2023-05-02T19:43:04.000+05:30
+unknown,JayendraB,Jayendra.Birtharia@citiustech.com,unknown,CQM-JAVA,25,2022-09-22T15:13:43.000+05:30
+unknown,babitam,babitam@Test3-TXD.mumbai1.corp.citiustech.com,unknown,CQM-JAVA,9,2021-10-21T17:40:47.000+05:30
+unknown,mayurm,mayur.meshram@citiustech.com,unknown,CQM-JAVA,7,2021-05-25T17:17:58.000+05:30
+unknown,Yogesh Jadhav,YogeshJ2@citiustech.com,unknown,CQM-JAVA,8,2022-01-25T00:01:39.000+05:30
+unknown,Swathi Kota,swathi.kota@citiustech.com,unknown,CQM-JAVA,10,2022-06-28T20:08:03.000+05:30
+unknown,Akash Kokane,akash.kokane@citiustech.com,unknown,CQM-JAVA,10,2021-08-17T21:44:31.000+05:30
+unknown,ManasiT2,ManasiT2@CM1VA893.mumbai1.corp.citiustech.com,unknown,CQM-JAVA,19,2022-11-11T20:12:01.000+05:30
+unknown,Mansi Sudhakar Bhosle,MansiB@citiustech.com,unknown,CQM-JAVA,12,2023-01-31T11:23:45.000+05:30
+unknown,Yogesh Ashok Jadhav,yogesh.jadhav@citiustech.com,unknown,CQM-JAVA,12,2022-12-30T14:00:12.000+05:30
+unknown,Bhagyashri Sakpal,bhagyashri.sakpal@citiustech.com,unknown,CQM-JAVA,12,2022-09-22T22:19:40.000+05:30
+unknown,Suhas Bhame,suhas.bhame@citiustech.com,unknown,CQM-JAVA,12,2022-08-08T18:39:49.000+05:30
+unknown,BhagyashriS,BhagyashriS@IMC5BCP98-MSL1.mumbai1.corp.citiustech.com,unknown,CQM-JAVA,13,2022-10-11T17:53:17.000+05:30
+unknown,AkashK6,AkashK6@BCPTEST11-MSD2.mumbai1.corp.citiustech.com,unknown,CQM-JAVA,13,2021-07-16T12:30:42.000+05:30
+unknown,Pradnya Patil2,pradnya.patil2@citiustech.com,unknown,CQM-JAVA,20,2023-10-26T12:12:43.000+00:00
+unknown,Manasi Thanekar,ManasiT2@citiustech.com,unknown,CQM-JAVA,20,2022-11-11T14:16:48.000+05:30
+unknown,mihirs,mihirs@Test1-TXD.mumbai1.corp.citiustech.com,unknown,CQM-JAVA,22,2021-10-14T15:41:48.000+05:30
+unknown,Alisha Vaz,AlishaV@citiustech.com,unknown,CQM-JAVA,40,2025-09-17T09:37:23.000+00:00
+unknown,Alisha Vaz,AlishaV@citiustech.com,unknown,RMM,64,2025-09-17T09:37:23.000+00:00
+unknown,Jayendra Birtharia,jayendra.birtharia@citiustech.com,unknown,CQM-JAVA,41,2022-05-13T23:23:20.000+05:30
+unknown,Kalpesh,kalpesh.lambe@citiustech.com,unknown,CQM-JAVA,49,2025-02-20T20:14:19.000+05:30
+unknown,Kalpesh,kalpesh.lambe@citiustech.com,unknown,RMM,96,2025-02-20T20:14:19.000+05:30
+unknown,RanjitSingh Banwait,Ranjitsinghb@citiustech.com,unknown,CQM-JAVA,95,2025-04-08T17:33:22.000+05:30
+unknown,RanjitSingh Banwait,Ranjitsinghb@citiustech.com,unknown,RMM,7,2025-04-08T17:33:22.000+05:30
+unknown,Pradnya Patil,Pradnya.Patil2@citiustech.com,unknown,CQM-JAVA,101,2023-12-12T12:04:56.000+05:30
+unknown,Pradnya Patil,Pradnya.Patil2@citiustech.com,unknown,RMM,8,2023-12-12T12:04:56.000+05:30
+unknown,Ranjit Singh Banwait,ranjitsingh.banwait@citiustech.com,unknown,CQM-JAVA,224,2025-09-30T12:44:55.000+00:00
+unknown,Ranjit Singh Banwait,ranjitsingh.banwait@citiustech.com,unknown,RMM,286,2025-09-30T12:44:55.000+00:00
+unknown,Chirag Gujarathi,chirag.gujarathi@citiustech.com,unknown,CQM-JAVA,374,2025-08-28T20:13:38.000+05:30
+unknown,Chirag Gujarathi,chirag.gujarathi@citiustech.com,unknown,RMM,1,2025-08-28T20:13:38.000+05:30
+KetanS6,Ketan Shukla,ketan.shukla@citiustech.com,active,MRR,1,2025-11-17T09:36:36.000+00:00
+NithyaT,Nithya Tiwari P,nithya.tiwarip@citiustech.com,active,MRR,1,2025-05-27T12:26:53.000+00:00
+unknown,Chandan Mishra,chandan.mishra@citiustech.com,unknown,MRR,1,2025-04-25T06:11:35.000+00:00
+unknown,Atul Mahadik,AtulM2@citiustech.com,unknown,MRR,120,2025-08-19T17:12:30.000+05:30
+unknown,Siddhesh Patil,SiddheshP5@citiustech.com,unknown,MRR,134,2025-08-06T14:08:09.000+05:30
+unknown,31834,avula.bhavankumarreddy@citiustech.com,unknown,MRR,4,2025-06-11T14:35:19.000+00:00
+ChilakaramannaM,Chilaka Ramanna Murakunda,chilakaramanna.murakunda@citiustech.com,active,MRR,4,2025-09-23T11:22:31.000+00:00
+ChilakaramannaM,Chilaka Ramanna Murakunda,chilakaramanna.murakunda@citiustech.com,active,RMM,3,2025-09-23T11:22:31.000+00:00
+unknown,Anandkumar Satpute,anandkumar.satpute@citiustech.com,unknown,MRR,7,2025-03-28T13:38:20.000+00:00
+unknown,Suhas Shenoy,suhas.shenoy@citiustech.com,unknown,MRR,13,2025-04-02T14:40:10.000+00:00
+unknown,31999,sathani.udaykumarreddy@citiustech.com,unknown,MRR,14,2025-07-25T07:42:53.000+00:00
+unknown,Ashwin Prabhu,ashwin.prabhu@citiustech.com,unknown,MRR,15,2024-11-14T16:09:29.000+05:30
+unknown,Ketki Bhagat,ketki.bhagat@citiustech.com,unknown,MRR,23,2025-08-11T14:30:24.000+00:00
+unknown,Rahul Badekar,rahul.badekar@citiustech.com,unknown,MRR,25,2025-09-19T19:16:45.000+05:30
+unknown,Rahul Badekar,rahul.badekar@citiustech.com,unknown,RMM,79,2025-09-19T19:16:45.000+05:30
+unknown,Dadi Anusha,dadi.anusha@citiustech.com,unknown,MRR,39,2025-08-13T03:53:11.000+00:00
+unknown,Sheetal Bahirat,sheetal.bahirat@citiustech.com,unknown,MRR,44,2025-07-21T11:46:44.000+00:00
+unknown,Saurabh Rathi,saurabh.rathi@citiustech.com,unknown,MRR,87,2025-08-11T08:49:32.000+00:00
+unknown,Onkar Patil,onkar.patil@citiustech.com,unknown,MRR,190,2025-08-19T14:22:17.000+00:00
+unknown,Ankur Mhatre,ankur.mhatre@citiustech.com,unknown,MRR,212,2025-02-26T12:36:26.000+00:00
+unknown,Mohammed Shahid,mohammed.shahid@citiustech.com,unknown,MRR,283,2025-08-04T05:53:18.000+00:00
+unknown,Ridhi Choudhary,ridhi.choudhary.p@citiustech.com,unknown,RMM,1,2025-07-21T18:02:58.000+05:30
+unknown,krishna.parmar,krishna.parmar@citiustech.com,unknown,RMM,1,2024-12-27T16:45:53.000+05:30
+unknown,Rohith Reddy Adamala,rohith.reddyadamala@citiustech.com,unknown,RMM,1,2023-07-04T21:36:37.000+05:30
+unknown,shubhamB7,shubhamB7@CM1VA1322.mumbai1.corp.citiustech.com,unknown,RMM,6,2025-05-14T17:46:46.000+05:30
+unknown,Hrushikesh Bhuskat,hrushikesh.bhuskat@citiustech.com,unknown,RMM,28,2025-09-15T12:34:54.000+05:30
+unknown,Shubham Bhake,Shubham.Bhake@citiustech.com,unknown,RMM,11,2025-02-21T18:01:36.000+05:30
+unknown,Ajaykumar Mahule,ajaykumar.mahule@citiustech.com,unknown,RMM,112,2025-09-23T21:03:37.000+05:30
